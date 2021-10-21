@@ -33,6 +33,10 @@
 - name: "evilfactorylabs"
   image: "evilfactorylabs.svg"
   link: "https://evilfactorylabs.org/"  
+  
+- name: "AppAdaptive"
+  image: "appadaptive.svg"
+  link: "https://appadaptive.de"
 
 - name: "Elo7"
   image: "elo7.svg"
